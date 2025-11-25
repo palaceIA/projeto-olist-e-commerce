@@ -4,7 +4,7 @@
 ## 👥 Integrantes da Equipe
 
 * **Caio Palácio**
-* *(Adicione outros integrantes aqui, se houver)*
+* **João Pedro Balduino**
 
 ---
 
